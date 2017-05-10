@@ -1,10 +1,10 @@
 [![Build Status](http://travis-ci.org/okfn/opendataday.svg?branch=master)](http://travis-ci.org/okfn/opendataday)
 
-Open Data Day is a gathering of citizens in cities around the world to write applications, liberate data, create visualizations and publish analyses using open public data to show support for and encourage the adoption of open data policies by the world's local, regional and national governments.
+National Day of Civic Hacking is a nationwide day of action for volunteers around the country to put technology to work for the benefit of our local communities.
 
-You're invited. Again. The next Open Data Day will take place on Saturday, 4 March 2017.
+National Day of Civic Hacking will take place on Saturday, September 23rd, 2017. We'll have a Brigade Boot Camp a few weeks before that. 
 
-Check <http://opendataday.org/> for public website.
+Check <http://ndoch.org/> for public website.
 
 ## Editing / contributing
 
@@ -33,3 +33,6 @@ If we are adding new language to the site we also need to:
 ## Previous version
 
 The previous version of the site has been moved to the [v1](https://github.com/okfn/opendataday/tree/v1) branch.
+
+## 
+This repo was forked from the Open Data Day site. 
