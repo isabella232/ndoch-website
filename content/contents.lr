@@ -2,21 +2,21 @@ _model: home
 ---
 next_date: 2017-03-04
 ---
-title: You are invited
+title: National Day of Civic Hacking 2017
 ---
-banner_heading_1: You are invited.
+banner_heading_1: National Day of Civic Hacking 
 ---
-banner_heading_2: Again!
+banner_heading_2: 2017
 ---
 banner_content_1: Open Data Day will take place on
 ---
-banner_content_2: Saturday, 4 March 2017
+banner_content_2: September 23rd, 2017
 ---
-intro_heading: What is Open Data Day?
+intro_heading: What is National Day of Civic Hacking?
 ---
 intro_body:
 
-Open Data Day is an annual celebration of open data all over the world. For the seventh time in history, groups from around the world will create local events on the day where they will use open data in their communities. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society.
+National Day of Civic Hacking is a nationwide day of action for volunteers around the country to put technology to work for the benefit of our local communities.
 ---
 intro_body_2:
 
@@ -24,15 +24,15 @@ All outputs are open for everyone to use and re-use.
 ---
 year_intro:
 
-For Open Data Day 2017, we want to take things up a notch. The focus this year will be on four key areas that we believe open data can solve.
+For National Day of Civic Hacking 2017, we want bring in more partners and provide more oppurtunities for people to pitch in. Here are some example events that you can host or attend around the country!
 ---
-year_label_1: Open **research** data
+year_label_1: Hackathons 
 ---
-year_label_2: Tracking public **money** flows
+year_label_2: Unconferences 
 ---
-year_label_3: Open data for **environment**
+year_label_3: Demo Days 
 ---
-year_label_4: Open data for **human rights**
+year_label_4: Town Halls
 ---
 register_text: Register your event here
 ---
