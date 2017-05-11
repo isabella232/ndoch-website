@@ -78,7 +78,7 @@ resources_heading: Event Resources
 ---
 resources_intro:
 
-Need some inspiration for an Open Data Day event, or don't know where to find the data you need? Checkout our 2017 event resources.
+Need some inspiration for a National Day of Civic Hacking event? Check our resources here! 
 ---
 resources_button: Resources
 ---
@@ -92,13 +92,13 @@ resources_ideas_heading: Ideas and data sources
 ---
 resources_ideas_intro:
 
-Hey there Open Data enthusiast! You just saw that International Open Data Day will be on Saturday, 4th March 2017 and will be interested in hosting an event in your locality. Your only challenge now is finding the right idea that will hit the right spot. Our friends from the Open Data community have some ideas and data sources worth checking out.
+Hey there! You just saw that National  Day of Civic Hacking will be on Saturday, September 23rd 2017 and will be interested in hosting an event in your locality. Your only challenge now is finding the right idea that will hit the right spot. Our Brigades have put together some ideas and resources worth checking out.
 ---
-resources_ideas_theme_1: data.world
+resources_ideas_theme_1: Brigade Playbook
 ---
 resources_ideas_theme_1_text:
 
-Use [data.world](https://data.world) to upload or find data from many sources and organize all aspects of a project - including data, notebooks, analysis, and discussions - in a single workspace. Collaborate efficiently using many tools: query uploaded data with SQL, interact with data via R Studio or Python programs using the data.world API, link a Google Sheet to a dataset, or work locally in a spreadsheet and upload a file. After Open Data Day, this work is preserved to showcase what was achieved and permit the community to build upon progress without unnecessarily repeating the data prep and analysis completed on Open Data Day.
+Use [The Brigade Playbook](http://brigade.codeforamerica.org/brigade/organize/playbook/) to learn lessons from the Brigade Community. 
 ---
 resources_ideas_theme_2: Open Research Data
 ---
