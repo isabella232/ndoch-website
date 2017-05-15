@@ -3,12 +3,12 @@ name = National Day of Civic Hacking
 
 [servers.ci]
 enabled = yes
-target = ghpages+https://codeforamerica/ndoch-website?cname=ndoch.org
+target = master+https://codeforamerica/ndoch-website?cname=ndoch.org
 
 [servers.manual]
 enabled = yes
 default = yes
-target = ghpages://codeforamerica/ndoch-website?cname=ndoch.org
+target = master://codeforamerica/ndoch-website?cname=ndoch.org
 
 [alternatives.en]
 name = English
