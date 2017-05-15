@@ -1,5 +1,5 @@
 [project]
-name = Open Data Day
+name = National Day of Civic Hacking
 
 [servers.ci]
 enabled = yes
