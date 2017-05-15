@@ -3,12 +3,12 @@ name = Open Data Day
 
 [servers.ci]
 enabled = yes
-target = ghpages+https://okfn/opendataday?cname=opendataday.org
+target = ghpages+https://codeforamerica/ndoch-website?cname=ndoch.org
 
 [servers.manual]
 enabled = yes
 default = yes
-target = ghpages://okfn/opendataday?cname=opendataday.org
+target = ghpages://codeforamerica/ndoch-website?cname=ndoch.org
 
 [alternatives.en]
 name = English
